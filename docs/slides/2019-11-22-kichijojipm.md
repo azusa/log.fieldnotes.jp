@@ -7,8 +7,8 @@ date: 2019-11-22
 
 2019-11-22
 
+[PDFをダウンロード](/slides/2019-11-22-kichijojipm.pdf)
+
 <div class="pdf-viewer">
   <iframe src="/slides/2019-11-22-kichijojipm.pdf" width="100%" height="620px" style="border:none;" />
 </div>
-
-[PDFをダウンロード](/slides/2019-11-22-kichijojipm.pdf)

@@ -7,8 +7,8 @@ date: 2018-07-27
 
 2018-07-27
 
+[PDFをダウンロード](/slides/2018-07-27-kichijojipm.pdf)
+
 <div class="pdf-viewer">
   <iframe src="/slides/2018-07-27-kichijojipm.pdf" width="100%" height="620px" style="border:none;" />
 </div>
-
-[PDFをダウンロード](/slides/2018-07-27-kichijojipm.pdf)
