@@ -1,9 +1,9 @@
 ---
-title: gbdaitokai development by win2
+title: DevContainerとWSL2ではじめるWindowsデスクトップでのWeb開発
 date: 2020-11-03
 ---
 
-# gbdaitokai development by win2
+# DevContainerとWSL2ではじめるWindowsデスクトップでのWeb開発
 
 2020-11-03
 

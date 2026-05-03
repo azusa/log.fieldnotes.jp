@@ -3,31 +3,31 @@
 
 ## 2025
 
-- [20250429 tohkatsudev publish](./2025-04-29-20250429-tohkatsudev-publish) <small>2025-04-29</small>
+- [生産性のはなし](./2025-04-29-20250429-tohkatsudev-publish) <small>2025-04-29</small>
 
 ## 2024
 
-- [202409 vscodemeetup](./2024-09-30-202409-vscodemeetup) <small>2024-09-30</small>
+- [2024年のラズパイ+VS Code事情](./2024-09-30-202409-vscodemeetup) <small>2024-09-30</small>
 
 ## 2023
 
-- [techfeedexpert](./2023-02-01-techfeedexpert) <small>2023-02-01</small>
+- [VS CodeとDockerの付き合い方](./2023-02-01-techfeedexpert) <small>2023-02-01</small>
 
 ## 2022
 
-- [ghdaitoka remotecontainer](./2022-07-16-ghdaitoka-remotecontainer) <small>2022-07-16</small>
-- [vscodemeetup 20220603](./2022-06-30-vscodemeetup-20220603) <small>2022-06-30</small>
-- [vscodemeetup remotedocker](./2022-02-04-vscodemeetup-remotedocker) <small>2022-02-04</small>
-- [msdevnight vscode](./2022-02-03-msdevnight-vscode) <small>2022-02-03</small>
+- [VS Code Remote ContainerによるリモートO開発のご紹介](./2022-07-16-ghdaitoka-remotecontainer) <small>2022-07-16</small>
+- [VS Code Remote Container & Live Shareを活用したモブプロ環境の運用](./2022-06-30-vscodemeetup-20220603) <small>2022-06-30</small>
+- [remote Docker over SSHが熱い](./2022-02-04-vscodemeetup-remotedocker) <small>2022-02-04</small>
+- [VSCode Remote Container & GitHub Codespaceで拓く次世代のJava開発体験](./2022-02-03-msdevnight-vscode) <small>2022-02-03</small>
 
 ## 2021
 
-- [jtf2021w ansible](./2021-01-24-jtf2021w_ansible) <small>2021-01-24</small>
+- [ChefとItamaeをニコイチしてAnsibleにマイグレーションした話](./2021-01-24-jtf2021w_ansible) <small>2021-01-24</small>
 
 ## 2020
 
-- [vscode vol7](./2020-11-04-vscode_vol7) <small>2020-11-04</small>
-- [gbdaitokai development by win2](./2020-11-03-gbdaitokai_development_by_win2) <small>2020-11-03</small>
+- [Visual Studio Code アップデート](./2020-11-04-vscode_vol7) <small>2020-11-04</small>
+- [DevContainerとWSL2ではじめるWindowsデスクトップでのWeb開発](./2020-11-03-gbdaitokai_development_by_win2) <small>2020-11-03</small>
 - [wesinvr](./2020-10-25-wesinvr) <small>2020-10-25</small>
 - [satysfyconf 2](./2020-07-25-satysfyconf_2) <small>2020-07-25</small>
 - [mstechnight](./2020-07-20-mstechnight) <small>2020-07-20</small>

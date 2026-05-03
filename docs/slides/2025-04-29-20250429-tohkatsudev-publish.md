@@ -1,9 +1,9 @@
 ---
-title: 20250429 tohkatsudev publish
+title: 生産性のはなし
 date: 2025-04-29
 ---
 
-# 20250429 tohkatsudev publish
+# 生産性のはなし
 
 2025-04-29
 
