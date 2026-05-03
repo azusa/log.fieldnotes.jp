@@ -16,7 +16,11 @@ export default defineConfig({
       { text: 'Slides', link: '/slides/' },
     ],
 
-    socialLinks: [],
+    socialLinks: [
+      { icon: 'x', link: 'https://x.com/setoazusa' },
+      { icon: 'instagram', link: 'https://www.instagram.com/hiroyuki_7171/' },
+      { icon: 'github', link: 'https://github.com/azusa/' },
+    ],
 
     footer: {
       copyright: '© 2026 hiroyuki ohnaka',
