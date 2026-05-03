@@ -19,3 +19,13 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+
+      - name: Deploy
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan www5137.sakura.ne.jp >> ~/.ssh/known_hosts
+          rsync -avz --delete docs/.vitepress/dist/ logfieldnotesjp@www5137.sakura.ne.jp:/home/logfieldnotesjp/www/
