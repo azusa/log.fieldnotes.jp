@@ -1,9 +1,9 @@
 ---
-title: fun tech ethereum
+title: 仮想通貨始めました〜GethではじめるEtereum〜
 date: 2018-01-31
 ---
 
-# fun tech ethereum
+# 仮想通貨始めました〜GethではじめるEtereum〜
 
 2018-01-31
 

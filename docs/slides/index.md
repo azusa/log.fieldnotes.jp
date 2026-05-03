@@ -62,19 +62,19 @@
 - [Windows環境でAzure Redis CacheにSSL接続](./2018-07-21-redis-cli-on-ssl) <small>2018-07-21</small>
 - [技術書典4に見る、技術同人誌マーケティングの傾向と対策](./2018-05-17-techbookfest) <small>2018-05-17</small>
 - [「わからない」](./2018-05-12-toteka) <small>2018-05-12</small>
-- [mackerel book publish](./2018-04-24-mackerel-book-publish) <small>2018-04-24</small>
-- [contribute to microsoft 180420070814](./2018-04-19-contribute-to-microsoft-180420070814) <small>2018-04-19</small>
-- [AzureFunctions Typescript](./2018-04-14-AzureFunctions-Typescript) <small>2018-04-14</small>
-- [fun tech ethereum](./2018-01-31-fun-tech-ethereum) <small>2018-01-31</small>
+- [Mackerelの薄い本](./2018-04-24-mackerel-book-publish) <small>2018-04-24</small>
+- [Microsoft DocsにContributeした話](./2018-04-19-contribute-to-microsoft-180420070814) <small>2018-04-19</small>
+- [Azure Functions+TypeScript](./2018-04-14-AzureFunctions-Typescript) <small>2018-04-14</small>
+- [仮想通貨始めました〜GethではじめるEtereum〜](./2018-01-31-fun-tech-ethereum) <small>2018-01-31</small>
 
 ## 2017
 
-- [moniroting by mackerel](./2017-12-23-moniroting_by_mackerel) <small>2017-12-23</small>
-- [automation systemtest by geb](./2017-12-10-automation_systemtest_by_geb) <small>2017-12-10</small>
-- [tddbc tokyo 2017 09 updated](./2017-11-02-tddbc_tokyo_2017_09_updated) <small>2017-11-02</small>
-- [tddbc tokyo 2017 09](./2017-09-30-tddbc_tokyo_2017_09) <small>2017-09-30</small>
-- [tddbctokyo201709 170930021204](./2017-09-30-tddbctokyo201709-170930021204) <small>2017-09-30</small>
-- [xpjug 2017 09 lt](./2017-09-16-xpjug_2017_09_lt) <small>2017-09-16</small>
+- [Mackerelではじめるお手軽サーバー監視](./2017-12-23-moniroting_by_mackerel) <small>2017-12-23</small>
+- [GebとSpockではじめるシステムテスト自動化](./2017-12-10-automation_systemtest_by_geb) <small>2017-12-10</small>
+- [TDDはじめて物語 Second Season(updated)](./2017-11-02-tddbc_tokyo_2017_09_updated) <small>2017-11-02</small>
+- [TDDはじめて物語 Second Season](./2017-09-30-tddbc_tokyo_2017_09) <small>2017-09-30</small>
+- [TDDはじめて物語 Second Season](./2017-09-30-tddbctokyo201709-170930021204) <small>2017-09-30</small>
+- [技術書典で技術系同人誌の世界に触れてみませんか？](./2017-09-16-xpjug_2017_09_lt) <small>2017-09-16</small>
 - [keypoint jdk9](./2017-06-24-keypoint_jdk9) <small>2017-06-24</small>
 - [how to make book](./2017-05-29-how-to-make-book) <small>2017-05-29</small>
 - [movetojava8 170520073708](./2017-05-20-movetojava8-170520073708) <small>2017-05-20</small>

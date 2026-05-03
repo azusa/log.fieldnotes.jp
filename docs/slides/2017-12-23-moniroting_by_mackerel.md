@@ -1,9 +1,9 @@
 ---
-title: moniroting by mackerel
+title: Mackerelではじめるお手軽サーバー監視
 date: 2017-12-23
 ---
 
-# moniroting by mackerel
+# Mackerelではじめるお手軽サーバー監視
 
 2017-12-23
 

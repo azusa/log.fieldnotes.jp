@@ -1,9 +1,9 @@
 ---
-title: mackerel book publish
+title: Mackerelの薄い本
 date: 2018-04-24
 ---
 
-# mackerel book publish
+# Mackerelの薄い本
 
 2018-04-24
 

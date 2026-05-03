@@ -1,9 +1,9 @@
 ---
-title: contribute to microsoft 180420070814
+title: Microsoft DocsにContributeした話
 date: 2018-04-19
 ---
 
-# contribute to microsoft 180420070814
+# Microsoft DocsにContributeした話
 
 2018-04-19
 

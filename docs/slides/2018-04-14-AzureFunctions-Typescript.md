@@ -1,9 +1,9 @@
 ---
-title: AzureFunctions Typescript
+title: Azure Functions+TypeScript
 date: 2018-04-14
 ---
 
-# AzureFunctions Typescript
+# Azure Functions+TypeScript
 
 2018-04-14
 

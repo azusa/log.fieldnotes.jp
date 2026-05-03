@@ -1,9 +1,9 @@
 ---
-title: tddbc tokyo 2017 09 updated
+title: TDDはじめて物語 Second Season(updated)
 date: 2017-11-02
 ---
 
-# tddbc tokyo 2017 09 updated
+# TDDはじめて物語 Second Season(updated)
 
 2017-11-02
 

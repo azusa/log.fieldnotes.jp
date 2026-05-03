@@ -1,9 +1,9 @@
 ---
-title: automation systemtest by geb
+title: GebとSpockではじめるシステムテスト自動化
 date: 2017-12-10
 ---
 
-# automation systemtest by geb
+# GebとSpockではじめるシステムテスト自動化
 
 2017-12-10
 
