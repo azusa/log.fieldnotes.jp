@@ -1,9 +1,9 @@
 ---
-title: pact for jvm
+title: pact-jvmではじめるコンシューマー駆動契約
 date: 2017-04-24
 ---
 
-# pact for jvm
+# pact-jvmではじめるコンシューマー駆動契約
 
 2017-04-24
 

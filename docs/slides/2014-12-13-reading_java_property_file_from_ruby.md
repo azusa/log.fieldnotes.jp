@@ -1,9 +1,9 @@
 ---
-title: reading java property file from ruby
+title: rubyでJavaのプロパティファイルを読み込んでみた
 date: 2014-12-13
 ---
 
-# reading java property file from ruby
+# rubyでJavaのプロパティファイルを読み込んでみた
 
 2014-12-13
 

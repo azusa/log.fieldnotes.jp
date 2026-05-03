@@ -1,9 +1,9 @@
 ---
-title: jjug ccc blue green deployment
+title: 実録Blue-Green Deployment導入記
 date: 2016-12-03
 ---
 
-# jjug ccc blue green deployment
+# 実録Blue-Green Deployment導入記
 
 2016-12-03
 

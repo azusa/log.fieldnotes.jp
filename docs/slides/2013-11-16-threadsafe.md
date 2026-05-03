@@ -1,9 +1,9 @@
 ---
-title: 真にスレッドセーフなHashMap
+title: 真にスレッドセーフなHashMapとは
 date: 2013-11-16
 ---
 
-# 真にスレッドセーフなHashMap
+# 真にスレッドセーフなHashMapとは
 
 2013-11-16
 

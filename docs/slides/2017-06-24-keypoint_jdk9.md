@@ -1,9 +1,9 @@
 ---
-title: keypoint jdk9
+title: JDK9の真の目玉機能はこれだ！
 date: 2017-06-24
 ---
 
-# keypoint jdk9
+# JDK9の真の目玉機能はこれだ！
 
 2017-06-24
 

@@ -1,9 +1,9 @@
 ---
-title: mini tddbc
+title: TDD最初の一歩
 date: 2014-03-30
 ---
 
-# mini tddbc
+# TDD最初の一歩
 
 2014-03-30
 

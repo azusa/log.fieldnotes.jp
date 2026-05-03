@@ -75,38 +75,38 @@
 - [TDDはじめて物語 Second Season](./2017-09-30-tddbc_tokyo_2017_09) <small>2017-09-30</small>
 - [TDDはじめて物語 Second Season](./2017-09-30-tddbctokyo201709-170930021204) <small>2017-09-30</small>
 - [技術書典で技術系同人誌の世界に触れてみませんか？](./2017-09-16-xpjug_2017_09_lt) <small>2017-09-16</small>
-- [keypoint jdk9](./2017-06-24-keypoint_jdk9) <small>2017-06-24</small>
-- [how to make book](./2017-05-29-how-to-make-book) <small>2017-05-29</small>
-- [movetojava8 170520073708](./2017-05-20-movetojava8-170520073708) <small>2017-05-20</small>
-- [pact for jvm](./2017-04-24-pact_for_jvm) <small>2017-04-24</small>
+- [JDK9の真の目玉機能はこれだ！](./2017-06-24-keypoint_jdk9) <small>2017-06-24</small>
+- [「すいーとみゅーじっく」のできるまで](./2017-05-29-how-to-make-book) <small>2017-05-29</small>
+- [Java8移行は怖くない〜エンタープライズ案件でのJava8移行事例について〜](./2017-05-20-movetojava8-170520073708) <small>2017-05-20</small>
+- [pact-jvmではじめるコンシューマー駆動契約](./2017-04-24-pact_for_jvm) <small>2017-04-24</small>
 
 ## 2016
 
-- [jjug ccc blue green deployment](./2016-12-03-jjug_ccc_blue_green_deployment) <small>2016-12-03</small>
-- [xpjug tdd 2016 09](./2016-09-24-xpjug_tdd_2016-09) <small>2016-09-24</small>
-- [xpjugtdd2016 09 160924082012](./2016-09-24-xpjugtdd2016-09-160924082012) <small>2016-09-24</small>
-- [chugokudb 2016 07 30](./2016-07-30-chugokudb_2016_07_30) <small>2016-07-30</small>
-- [techcirclechef 170331075748](./2016-03-31-techcirclechef-170331075748) <small>2016-03-31</small>
-- [tddbc tokyo 2016 02](./2016-02-27-tddbc_tokyo_2016_02) <small>2016-02-27</small>
+- [実録Blue-Green Deployment導入記](./2016-12-03-jjug_ccc_blue_green_deployment) <small>2016-12-03</small>
+- [TDDのこれまで、そしてこれから](./2016-09-24-xpjug_tdd_2016-09) <small>2016-09-24</small>
+- [TDDのこれまで、そしてこれから](./2016-09-24-xpjugtdd2016-09-160924082012) <small>2016-09-24</small>
+- [データベースもCIしよう！](./2016-07-30-chugokudb_2016_07_30) <small>2016-07-30</small>
+- [Chefのいいとこそうでないとこ](./2016-03-31-techcirclechef-170331075748) <small>2016-03-31</small>
+- [TDDはじめて物語](./2016-02-27-tddbc_tokyo_2016_02) <small>2016-02-27</small>
 
 ## 2015
 
-- [tdd jjug](./2015-10-14-tdd_jjug) <small>2015-10-14</small>
-- [yokohama dojo refactroing](./2015-08-04-yokohama_dojo_refactroing) <small>2015-08-04</small>
+- [テスト駆動開発ここが聞きたい](./2015-10-14-tdd_jjug) <small>2015-10-14</small>
+- [リファクタリング：技術的負債の返済](./2015-08-04-yokohama_dojo_refactroing) <small>2015-08-04</small>
 
 ## 2014
 
-- [reading java property file from ruby](./2014-12-13-reading_java_property_file_from_ruby) <small>2014-12-13</small>
-- [tdd](./2014-11-15-tdd) <small>2014-11-15</small>
-- [SchemaSpy.public](./2014-09-12-SchemaSpy.public) <small>2014-09-12</small>
-- [SQLアンチパターン読書会 インプリシットカラム](./2014-04-25-sqlantipattern) <small>2014-04-25</small>
-- [sql 140507122414 phpapp02](./2014-04-25-sql-140507122414-phpapp02) <small>2014-04-25</small>
-- [mini tddbc](./2014-03-30-mini_tddbc) <small>2014-03-30</small>
+- [rubyでJavaのプロパティファイルを読み込んでみた](./2014-12-13-reading_java_property_file_from_ruby) <small>2014-12-13</small>
+- [私がTDD出来ないのはどう考えてもお前らが悪い！〜エンタープライズJava開発におけるTDD適用の勘所〜](./2014-11-15-tdd) <small>2014-11-15</small>
+- [CIサーバーとSchemaSpyでデータベースのドキュメント作成を自動化](./2014-09-12-SchemaSpy.public) <small>2014-09-12</small>
+- [インプリシットカラム(暗黙の列)](./2014-04-25-sqlantipattern) <small>2014-04-25</small>
+- [インプリシットカラム(暗黙の列)](./2014-04-25-sql-140507122414-phpapp02) <small>2014-04-25</small>
+- [TDD最初の一歩](./2014-03-30-mini_tddbc) <small>2014-03-30</small>
 
 ## 2013
 
-- [tuning](./2013-12-14-tuning) <small>2013-12-14</small>
-- [真にスレッドセーフなHashMap](./2013-11-16-threadsafe) <small>2013-11-16</small>
+- [JVMパフォーマンスチューニング基礎](./2013-12-14-tuning) <small>2013-12-14</small>
+- [真にスレッドセーフなHashMapとは](./2013-11-16-threadsafe) <small>2013-11-16</small>
 
 ## 2012
 

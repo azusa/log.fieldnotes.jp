@@ -1,9 +1,9 @@
 ---
-title: SchemaSpy.public
+title: CIサーバーとSchemaSpyでデータベースのドキュメント作成を自動化
 date: 2014-09-12
 ---
 
-# SchemaSpy.public
+# CIサーバーとSchemaSpyでデータベースのドキュメント作成を自動化
 
 2014-09-12
 

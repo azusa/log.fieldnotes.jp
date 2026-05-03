@@ -1,9 +1,9 @@
 ---
-title: yokohama dojo refactroing
+title: リファクタリング：技術的負債の返済
 date: 2015-08-04
 ---
 
-# yokohama dojo refactroing
+# リファクタリング：技術的負債の返済
 
 2015-08-04
 
