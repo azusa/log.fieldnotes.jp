@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev docs",
+    "dev": "vitepress dev docs --host --port 15173",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs"
   },

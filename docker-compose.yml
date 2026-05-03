@@ -18,7 +18,7 @@ services:
       LANGUAGE: ja_JP:ja
       LC_ALL: ja_JP.UTF-8
     ports:
-      - "15173:5173"
+      - "15173:15173"
     user: dev
     working_dir: /workspace
     stdin_open: true
