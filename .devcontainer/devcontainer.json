@@ -1,6 +1,6 @@
 {
   "name": "log.fieldnotes.jp",
-  "dockerComposeFile": "compose.yml",
+  "dockerComposeFile": "../compose.yml",
   "service": "app",
   "workspaceFolder": "/workspace",
   "forwardPorts": [5173],

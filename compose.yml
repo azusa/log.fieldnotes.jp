@@ -1,10 +1,10 @@
 services:
   app:
     build:
-      context: .
+      context: .devcontainer
       dockerfile: Dockerfile
     volumes:
-      - ..:/workspace:cached
+      - .:/workspace:cached
     ports:
       - "5173:5173"
     command: sleep infinity
