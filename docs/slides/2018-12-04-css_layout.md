@@ -1,9 +1,9 @@
 ---
-title: css layout
+title: CSS組版の光と闇
 date: 2018-12-04
 ---
 
-# css layout
+# CSS組版の光と闇
 
 2018-12-04
 

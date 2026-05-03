@@ -1,9 +1,9 @@
 ---
-title: openjdk zulu on azusa
+title: Microsoft Azure+Azul EnterPriseによるJavaLTSサポート
 date: 2018-10-06
 ---
 
-# openjdk zulu on azusa
+# Microsoft Azure+Azul EnterPriseによるJavaLTSサポート
 
 2018-10-06
 

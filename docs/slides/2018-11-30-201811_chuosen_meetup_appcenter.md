@@ -1,9 +1,9 @@
 ---
-title: 201811 chuosen meetup appcenter
+title: ドキッ！Visual Studio App CenterではじめてのXamarin.FormsアプリCI/CD
 date: 2018-11-30
 ---
 
-# 201811 chuosen meetup appcenter
+# ドキッ！Visual Studio App CenterではじめてのXamarin.FormsアプリCI/CD
 
 2018-11-30
 

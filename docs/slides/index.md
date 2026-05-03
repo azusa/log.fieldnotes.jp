@@ -28,40 +28,40 @@
 
 - [Visual Studio Code アップデート](./2020-11-04-vscode_vol7) <small>2020-11-04</small>
 - [DevContainerとWSL2ではじめるWindowsデスクトップでのWeb開発](./2020-11-03-gbdaitokai_development_by_win2) <small>2020-11-03</small>
-- [wesinvr](./2020-10-25-wesinvr) <small>2020-10-25</small>
-- [satysfyconf 2](./2020-07-25-satysfyconf_2) <small>2020-07-25</small>
-- [mstechnight](./2020-07-20-mstechnight) <small>2020-07-20</small>
-- [vscode vol6](./2020-07-15-vscode_vol6) <small>2020-07-15</small>
-- [reading xp2](./2020-06-26-reading_xp2) <small>2020-06-26</small>
-- [吉祥寺pm 20200602](./2020-06-02-kichijojipm) <small>2020-06-02</small>
-- [study in vr](./2020-05-24-study-in-vr) <small>2020-05-24</small>
-- [vscode vol4](./2020-04-06-vscode_vol4) <small>2020-04-06</small>
-- [vscode vol4 update](./2020-04-06-vscode_vol4_update) <small>2020-04-06</small>
-- [vscodemeetup 3](./2020-02-19-vscodemeetup_3) <small>2020-02-19</small>
+- [メンテナンス作業時にrm -rf をぶっ放した顛末](./2020-10-25-wesinvr) <small>2020-10-25</small>
+- [Pandoc使いSATySFiに挑戦する](./2020-07-25-satysfyconf_2) <small>2020-07-25</small>
+- [Visual Studio Code Remote Development小技集](./2020-07-20-mstechnight) <small>2020-07-20</small>
+- [インフラエンジニアのためのRemote Developmentことはじめ](./2020-07-15-vscode_vol6) <small>2020-07-15</small>
+- [ストーリーポイントと自動テストの功罪](./2020-06-26-reading_xp2) <small>2020-06-26</small>
+- [バーチャル登壇(仮)](./2020-06-02-kichijojipm) <small>2020-06-02</small>
+- [リモートワーク時代のチーム運営](./2020-05-24-study-in-vr) <small>2020-05-24</small>
+- [Remote Development(ssh) 小技集](./2020-04-06-vscode_vol4) <small>2020-04-06</small>
+- [Visual Studio Code February 2020アップデート](./2020-04-06-vscode_vol4_update) <small>2020-04-06</small>
+- [VSCode+Java Extension PackでJava開発](./2020-02-19-vscodemeetup_3) <small>2020-02-19</small>
 
 ## 2019
 
-- [吉祥寺pm 20191122](./2019-11-22-kichijojipm) <small>2019-11-22</small>
-- [20190831 jxug](./2019-08-31-20190831-jxug) <small>2019-08-31</small>
-- [20190802 fearless organization](./2019-08-02-20190802-fearless-organization) <small>2019-08-02</small>
-- [techpub](./2019-05-27-techpub) <small>2019-05-27</small>
-- [jjug ccc 2019 spring](./2019-05-18-jjug_ccc_2019_spring) <small>2019-05-18</small>
-- [吉祥寺pm 20190517](./2019-05-17-kichijojipm) <small>2019-05-17</small>
-- [css printing ci](./2019-02-17-css_printing_ci) <small>2019-02-17</small>
-- [java on azure burikaigi](./2019-01-26-java_on_azure_burikaigi) <small>2019-01-26</small>
+- [WindowsデスクトップでWeb開発](./2019-11-22-kichijojipm) <small>2019-11-22</small>
+- [Xamarin.Formsでトークンの設定値等を管理するには](./2019-08-31-20190831-jxug) <small>2019-08-31</small>
+- [心理的安全性の論文を読んでみた](./2019-08-02-20190802-fearless-organization) <small>2019-08-02</small>
+- [同人誌の執筆のためにMicrosoftにバグをなおしてもらった話](./2019-05-27-techpub) <small>2019-05-27</small>
+- [大企業運営の法人向けサービスにおけるOpenJDK移行事例](./2019-05-18-jjug_ccc_2019_spring) <small>2019-05-18</small>
+- [Linuxサーバーを再起動しない運用は終わりにしましょう](./2019-05-17-kichijojipm) <small>2019-05-17</small>
+- [CSS組版だってCIがしたい](./2019-02-17-css_printing_ci) <small>2019-02-17</small>
+- [Microsoft AzureではじめるJava開発](./2019-01-26-java_on_azure_burikaigi) <small>2019-01-26</small>
 
 ## 2018
 
-- [java on azure](./2018-12-15-java_on_azure) <small>2018-12-15</small>
-- [css layout](./2018-12-04-css_layout) <small>2018-12-04</small>
-- [201811 chuosen meetup appcenter](./2018-11-30-201811_chuosen_meetup_appcenter) <small>2018-11-30</small>
-- [openjdk zulu on azusa](./2018-10-06-openjdk_zulu_on_azusa) <small>2018-10-06</small>
-- [reading xp](./2018-09-08-reading_xp) <small>2018-09-08</small>
-- [gbdaitokai packer serverspec](./2018-09-01-gbdaitokai_packer_serverspec) <small>2018-09-01</small>
-- [吉祥寺PM 20180727pm](./2018-07-27-kichijojipm) <small>2018-07-27</small>
-- [redis cli on ssl](./2018-07-21-redis-cli-on-ssl) <small>2018-07-21</small>
+- [Microsoft AzureではじめるJava開発](./2018-12-15-java_on_azure) <small>2018-12-15</small>
+- [CSS組版の光と闇](./2018-12-04-css_layout) <small>2018-12-04</small>
+- [ドキッ！Visual Studio App CenterではじめてのXamarin.FormsアプリCI/CD](./2018-11-30-201811_chuosen_meetup_appcenter) <small>2018-11-30</small>
+- [Microsoft Azure+Azul EnterPriseによるJavaLTSサポート](./2018-10-06-openjdk_zulu_on_azusa) <small>2018-10-06</small>
+- [今だから読みたい「エクストリームプログラミング」](./2018-09-08-reading_xp) <small>2018-09-08</small>
+- [PackerとServerspecではじめるインフラ自動化](./2018-09-01-gbdaitokai_packer_serverspec) <small>2018-09-01</small>
+- [マネジメントと「コード」の話](./2018-07-27-kichijojipm) <small>2018-07-27</small>
+- [Windows環境でAzure Redis CacheにSSL接続](./2018-07-21-redis-cli-on-ssl) <small>2018-07-21</small>
 - [技術書典4に見る、技術同人誌マーケティングの傾向と対策](./2018-05-17-techbookfest) <small>2018-05-17</small>
-- [とてかLT](./2018-05-12-toteka) <small>2018-05-12</small>
+- [「わからない」](./2018-05-12-toteka) <small>2018-05-12</small>
 - [mackerel book publish](./2018-04-24-mackerel-book-publish) <small>2018-04-24</small>
 - [contribute to microsoft 180420070814](./2018-04-19-contribute-to-microsoft-180420070814) <small>2018-04-19</small>
 - [AzureFunctions Typescript](./2018-04-14-AzureFunctions-Typescript) <small>2018-04-14</small>

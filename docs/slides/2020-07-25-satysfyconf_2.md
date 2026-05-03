@@ -1,9 +1,9 @@
 ---
-title: satysfyconf 2
+title: Pandoc使いSATySFiに挑戦する
 date: 2020-07-25
 ---
 
-# satysfyconf 2
+# Pandoc使いSATySFiに挑戦する
 
 2020-07-25
 

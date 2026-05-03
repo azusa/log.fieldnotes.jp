@@ -1,9 +1,9 @@
 ---
-title: 20190802 fearless organization
+title: 心理的安全性の論文を読んでみた
 date: 2019-08-02
 ---
 
-# 20190802 fearless organization
+# 心理的安全性の論文を読んでみた
 
 2019-08-02
 

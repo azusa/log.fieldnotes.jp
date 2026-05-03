@@ -1,9 +1,9 @@
 ---
-title: gbdaitokai packer serverspec
+title: PackerとServerspecではじめるインフラ自動化
 date: 2018-09-01
 ---
 
-# gbdaitokai packer serverspec
+# PackerとServerspecではじめるインフラ自動化
 
 2018-09-01
 

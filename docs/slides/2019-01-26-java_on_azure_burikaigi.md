@@ -1,9 +1,9 @@
 ---
-title: java on azure burikaigi
+title: Microsoft AzureではじめるJava開発
 date: 2019-01-26
 ---
 
-# java on azure burikaigi
+# Microsoft AzureではじめるJava開発
 
 2019-01-26
 

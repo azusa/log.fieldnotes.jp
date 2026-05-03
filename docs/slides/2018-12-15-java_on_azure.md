@@ -1,9 +1,9 @@
 ---
-title: java on azure
+title: Microsoft AzureではじめるJava開発
 date: 2018-12-15
 ---
 
-# java on azure
+# Microsoft AzureではじめるJava開発
 
 2018-12-15
 

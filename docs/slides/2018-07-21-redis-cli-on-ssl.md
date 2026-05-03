@@ -1,9 +1,9 @@
 ---
-title: redis cli on ssl
+title: Windows環境でAzure Redis CacheにSSL接続
 date: 2018-07-21
 ---
 
-# redis cli on ssl
+# Windows環境でAzure Redis CacheにSSL接続
 
 2018-07-21
 

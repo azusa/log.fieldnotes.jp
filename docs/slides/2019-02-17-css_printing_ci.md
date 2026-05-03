@@ -1,9 +1,9 @@
 ---
-title: css printing ci
+title: CSS組版だってCIがしたい
 date: 2019-02-17
 ---
 
-# css printing ci
+# CSS組版だってCIがしたい
 
 2019-02-17
 

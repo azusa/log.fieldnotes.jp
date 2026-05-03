@@ -1,9 +1,9 @@
 ---
-title: vscode vol4 update
+title: Visual Studio Code February 2020アップデート
 date: 2020-04-06
 ---
 
-# vscode vol4 update
+# Visual Studio Code February 2020アップデート
 
 2020-04-06
 

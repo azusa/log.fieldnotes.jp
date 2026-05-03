@@ -1,9 +1,9 @@
 ---
-title: jjug ccc 2019 spring
+title: 大企業運営の法人向けサービスにおけるOpenJDK移行事例
 date: 2019-05-18
 ---
 
-# jjug ccc 2019 spring
+# 大企業運営の法人向けサービスにおけるOpenJDK移行事例
 
 2019-05-18
 
