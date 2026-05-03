@@ -1,15 +1,10 @@
 {
-  "name": "log.fieldnotes.jp",
-  "dockerComposeFile": "../compose.yml",
-  "service": "app",
+  "name": "log-fieldnotes.jp",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "log-fieldnotes.jp",
+  "remoteUser": "dev",
   "workspaceFolder": "/workspace",
-  "forwardPorts": [5173],
-  "postCreateCommand": "npm install",
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "Vue.volar"
-      ]
-    }
-  }
+  "shutdownAction": "stopCompose",
+  "overrideCommand": false,
+  "postCreateCommand": "npm install"
 }

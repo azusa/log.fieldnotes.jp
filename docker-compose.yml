@@ -1,0 +1,30 @@
+services:
+  log-fieldnotes.jp:
+    build:
+      context: .
+      dockerfile: .devcontainer/Dockerfile
+      args:
+        USERNAME: dev
+        USER_UID: ${LOCAL_UID:-1000}
+        USER_GID: ${LOCAL_GID:-1000}
+    volumes:
+      - ./:/workspace
+      - npm-cache:/home/dev/.npm
+      - ~/.claude:/home/dev/.claude
+    environment:
+      HOME: /home/dev
+      NPM_CONFIG_CACHE: /home/dev/.npm
+      LANG: ja_JP.UTF-8
+      LANGUAGE: ja_JP:ja
+      LC_ALL: ja_JP.UTF-8
+    ports:
+      - "15173:5173"
+    user: dev
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
+    init: true
+    command: ["sleep", "infinity"]
+
+volumes:
+  npm-cache:
