@@ -23,6 +23,10 @@ export default defineConfig({
     ['script', {}, `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-YELXGEQW4R');`],
   ],
 
+  sitemap: {
+    hostname: SITE_URL,
+  },
+
   transformHead({ pageData, siteData }) {
     const fm = pageData.frontmatter
     const pageTitle = fm.title
