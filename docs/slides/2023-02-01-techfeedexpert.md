@@ -7,7 +7,6 @@ date: 2023-02-01
 
 2023-02-01
 
-[PDFをダウンロード](/slides/2023-02-01-techfeedexpert.pdf)
 
 <div class="pdf-viewer">
   <iframe src="/slides/2023-02-01-techfeedexpert.pdf" width="100%" height="620px" style="border:none;" />

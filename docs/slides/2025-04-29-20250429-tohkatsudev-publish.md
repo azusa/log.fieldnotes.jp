@@ -7,7 +7,6 @@ date: 2025-04-29
 
 2025-04-29
 
-[PDFをダウンロード](/slides/2025-04-29-20250429-tohkatsudev-publish.pdf)
 
 <div class="pdf-viewer">
   <iframe src="/slides/2025-04-29-20250429-tohkatsudev-publish.pdf" width="100%" height="620px" style="border:none;" />

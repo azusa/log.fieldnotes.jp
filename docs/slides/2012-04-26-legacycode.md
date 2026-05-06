@@ -7,7 +7,6 @@ date: 2012-04-26
 
 2012-04-26
 
-[PDFをダウンロード](/slides/2012-04-26-legacycode.pdf)
 
 <div class="pdf-viewer">
   <iframe src="/slides/2012-04-26-legacycode.pdf" width="100%" height="620px" style="border:none;" />
