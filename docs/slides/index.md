@@ -15,7 +15,7 @@
 
 ## 2022
 
-- [VS Code Remote ContainerによるリモートO開発のご紹介](./2022-07-16-ghdaitoka-remotecontainer) <small>2022-07-16</small>
+- [VS Code Remote Containerによるリモート開発のご紹介](./2022-07-16-ghdaitoka-remotecontainer) <small>2022-07-16</small>
 - [VS Code Remote Container & Live Shareを活用したモブプロ環境の運用](./2022-06-30-vscodemeetup-20220603) <small>2022-06-30</small>
 - [remote Docker over SSHが熱い](./2022-02-04-vscodemeetup-remotedocker) <small>2022-02-04</small>
 - [VSCode Remote Container & GitHub Codespaceで拓く次世代のJava開発体験](./2022-02-03-msdevnight-vscode) <small>2022-02-03</small>
