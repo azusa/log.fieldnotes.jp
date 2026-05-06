@@ -19,6 +19,8 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-YELXGEQW4R' }],
+    ['script', {}, `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-YELXGEQW4R');`],
   ],
 
   transformHead({ pageData, siteData }) {
