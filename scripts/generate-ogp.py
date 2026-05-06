@@ -90,6 +90,8 @@ def draw_text_block(
     )
 
     # Title (vertically centred, slightly above middle)
+    if not title:
+        return img
     title_font = ImageFont.truetype(FONT_BOLD, 62)
     lines = wrap_text(title, title_font, max_w, draw)
     line_h = 78
@@ -157,7 +159,7 @@ def save(img: Image.Image, out_path: Path) -> None:
 
 def gen_default() -> None:
     img = crop_center(Image.open(BASE_IMAGE).convert("RGB"), OGP_W, OGP_H)
-    img = draw_text_block(img, "hiroyuki ohnaka's portfolio")
+    img = draw_text_block(img, "")
     save(img, OUTPUT_DIR / "default.png")
     print("  default.png")
 
