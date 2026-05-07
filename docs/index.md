@@ -14,7 +14,7 @@ hero:
 
 ## About
 
-**Hiroyuki Onaka**
+**Hiroyuki Onaka** (せとあず/ひろ)
 
 ### SNS
 
