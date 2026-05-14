@@ -15,7 +15,7 @@ function ogImageUrl(relativePath: string): string {
 export default defineConfig({
   lang: 'ja',
   title: 'log.fieldnotes.jp',
-  description: 'hiroyuki ohnaka\'s portfolio',
+  description: 'log.fieldnotes.jp',
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -65,7 +65,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: '© 2026 hiroyuki ohnaka',
+      copyright: '© 2026 Hiroyuki Ohnaka',
     },
   },
 })
