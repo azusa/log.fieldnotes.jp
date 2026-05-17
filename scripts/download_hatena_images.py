@@ -18,7 +18,7 @@ HATENA_CDN = "https://cdn-ak.f.st-hatena.com"
 def collect_image_urls() -> dict[str, Path]:
     """Returns mapping of url -> local save path"""
     urls = {}
-    pattern = re.compile(r'https://cdn-ak\.f\.st-hatena\.com(/[^\s")]+)')
+    pattern = re.compile(r'https?://cdn-ak\.f\.st-hatena\.com(/[^\s")]+)')
     for md_file in BLOG_DIR.rglob("*.md"):
         text = md_file.read_text(encoding="utf-8")
         for m in pattern.finditer(text):

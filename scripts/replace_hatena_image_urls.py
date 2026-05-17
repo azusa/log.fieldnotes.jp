@@ -12,7 +12,7 @@ BLOG_DIR = Path("/workspace/docs/blog")
 IMAGE_DIR = Path("/workspace/docs/public/images/blog")
 HATENA_CDN = "https://cdn-ak.f.st-hatena.com"
 
-pattern = re.compile(r'https://cdn-ak\.f\.st-hatena\.com(/[^\s")]+)')
+pattern = re.compile(r'https?://cdn-ak\.f\.st-hatena\.com(/[^\s")]+)')
 
 
 def replace_in_file(md_file: Path) -> int:
