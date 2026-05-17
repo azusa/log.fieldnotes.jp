@@ -18,7 +18,7 @@ from PIL import Image, ImageDraw, ImageFont
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-BASE_IMAGE = Path("/workspace/.tmp/2021-03-06.jpg")
+BASE_IMAGE = Path("/workspace/scripts/2021-03-06.jpg")
 FONT_BOLD = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"
 FONT_REGULAR = "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"
 DOCS_DIR = Path("/workspace/docs")
