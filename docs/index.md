@@ -21,7 +21,7 @@ hero:
 - [X (Twitter)](https://x.com/setoazusa)
 - [Instagram](https://www.instagram.com/hiroyuki_7171/)
 - [GitHub](https://github.com/azusa/)
-- [旧ブログ](https://blog.fieldnotes.jp/)
+- [旧ブログ](https://fieldnotes.hatenablog.jp/)
 
 ### 著書
 
