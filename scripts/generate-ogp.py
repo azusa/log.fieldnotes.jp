@@ -227,5 +227,24 @@ def main() -> None:
     print("\nDone.")
 
 
+def main_single(paths: list[str]) -> None:
+    print("=== Generating OGP images ===")
+    for p in paths:
+        md_path = DOCS_DIR / p
+        if not md_path.exists():
+            print(f"  [NOT FOUND] {p}")
+            continue
+        if str(Path(p)).startswith("slides/"):
+            gen_slide(md_path)
+        else:
+            fm = get_frontmatter(md_path)
+            title = fm.get("title", "")
+            gen_page(p, title)
+    print("\nDone.")
+
+
 if __name__ == "__main__":
-    main()
+    if sys.argv[1:]:
+        main_single(sys.argv[1:])
+    else:
+        main()
