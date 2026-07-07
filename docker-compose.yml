@@ -1,5 +1,6 @@
 services:
   log-fieldnotes.jp:
+    restart: always
     build:
       context: .
       dockerfile: .devcontainer/Dockerfile
